@@ -1,0 +1,6 @@
+#WARNING:
+#If this file is deleted then this folder will no
+#longer appear to be a project/task in Strange Eons.
+#Mon Dec 12 20:28:28 ART 2016
+type=PLUGIN
+bundle-file=MyFirstTask.seplugin

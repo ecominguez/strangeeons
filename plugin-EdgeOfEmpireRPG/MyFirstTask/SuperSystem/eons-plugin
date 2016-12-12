@@ -1,0 +1,16 @@
+id = CATALOGUEID{31889e14-dfda-42d6-90f8-098838fc83a9:2015-2-24-19-23-25-605}
+
+priority = GAME
+ui-languages = en_US,es_ES
+game-languages = en,es
+
+catalog-name = SuperSystem, character card
+catalog-name_es_ES = SuperSystem, carta de personaje
+
+catalog-credit = Karagh, Carlos López
+catalog-description = <p>Plug-in to create character cards for SuperSystem.
+catalog-description_es_ES = <p>Plug-in para crear fichas de personaje de SuperSystem.
+
+catalog-tags = game, beta, SuperSystem
+
+res://SuperSystem/SSYS.js
