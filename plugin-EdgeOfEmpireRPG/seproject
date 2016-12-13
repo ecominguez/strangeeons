@@ -1,10 +1,10 @@
 #WARNING:
 #If this file is deleted then this folder will no
 #longer appear to be a project/task in Strange Eons.
-#Mon Dec 12 20:28:28 ART 2016
+#Tue Dec 13 00:44:47 ART 2016
+open-folders=\:EdgeOfEmpireRPG\:EdgeOfEmpireRPG/resources\:EdgeOfEmpireRPG/resources/EdgeOfEmpireRPG\:EdgeOfEmpireRPG/resources/EdgeOfEmpireRPG/diy\:EdgeOfEmpireRPG/resources/EdgeOfEmpireRPG/font\:EdgeOfEmpireRPG/resources/EdgeOfEmpireRPG/portrait\:MyFirstTask\:MyFirstTask/SuperSystem\:MyFirstTask/SuperSystem/resources\:MyFirstTask/SuperSystem/resources/SuperSystem\:MyFirstTask/SuperSystem/resources/SuperSystem/portrait\:MyFirstTask/SuperSystem/resources/SuperSystem/settings
 first-row=0
-open-folders=\:MyFirstTask\:MyFirstTask/resources
 res-id=ecominguez
 notes=
 type=PROJECT
-selected-members=
+selected-members=\:EdgeOfEmpireRPG/resources/EdgeOfEmpireRPG/components
