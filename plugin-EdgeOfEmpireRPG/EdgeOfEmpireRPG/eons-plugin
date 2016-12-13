@@ -7,7 +7,9 @@ id = CATALOGUEID{c7afcc74-6d33-4f0c-bc13-c3834627fdf5:2016-11-12-23-29-26-402}
 priority = GAME
 
 catalog-name = EdgeOfEmpireRPG
-catalog-description = Facilitar la creación de cartas que ayuden al GM en su \
-    representación de la aventura.
+catalog-credit = Comintuez, Eduardo Adrián
+catalog-description = plugin to create cards with NPC, Weapons, Planets, etc. to \
+    facilitate\nfor the Star Wars FFG RPG players the representation of the adventure.
+catalog-tags = game, beta, EdgeOfEmpireRPG
 
 res://EdgeOfEmpireRPG/EdgeOfEmpireRPG.js
